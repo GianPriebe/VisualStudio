@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "configurations": [
         {
             "type": "java",
@@ -9,6 +10,25 @@
             "mainClass": "com.example.Main",
             "projectName": "java-getting-started",
             "args": ""
+=======
+    // Use o IntelliSense para aprender sobre possíveis atributos.
+    // Passe o mouse para ver as descrições dos atributos existentes.
+    // Para obter mais informações, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java-getting-started>",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "java-getting-started"
+>>>>>>> commit on master
         }
     ]
 }
